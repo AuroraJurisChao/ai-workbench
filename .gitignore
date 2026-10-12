@@ -1,0 +1,16 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# 依赖与构建
+node_modules/
+dist/
+
+# Python 辅助脚本缓存
+__pycache__/
+*.pyc
+
+# 本地环境配置（含你自己的环境 ID，切勿提交真实值）
+config.local.js
